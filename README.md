@@ -17,7 +17,6 @@
   &nbsp;•&nbsp;
   <a href="#-getting-started">Get Started</a>
   &nbsp;•&nbsp;
-  <a href="#-deployment">Deploy with Vercel</a>
 </p>
 
 ---
